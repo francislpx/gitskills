@@ -1,4 +1,4 @@
 # gitskills
 
-test branch--dev some words append in master
+test branch--dev insert in dev2 some words append in master
 
